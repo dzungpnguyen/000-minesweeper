@@ -1,2 +1,3 @@
-Personal project that rebuilds Minesweeper Game in Java
+Personal project - Java game
 -----
+Rebuild Minesweeper game in Java
